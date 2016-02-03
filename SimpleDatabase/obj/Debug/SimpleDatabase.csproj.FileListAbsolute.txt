@@ -8,3 +8,13 @@ c:\users\krzysiek\documents\visual studio 2013\Projects\SimpleDatabase\SimpleDat
 c:\users\krzysiek\documents\visual studio 2013\Projects\SimpleDatabase\SimpleDatabase\obj\Debug\SimpleDatabase.csprojResolveAssemblyReference.cache
 c:\users\krzysiek\documents\visual studio 2013\Projects\SimpleDatabase\SimpleDatabase\obj\Debug\SimpleDatabase.exe
 c:\users\krzysiek\documents\visual studio 2013\Projects\SimpleDatabase\SimpleDatabase\obj\Debug\SimpleDatabase.pdb
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\bin\Debug\SimpleDatabase.exe.config
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\obj\Debug\SimpleDatabase.exe
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\obj\Debug\SimpleDatabase.pdb
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\bin\Debug\SimpleDatabase.exe
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\bin\Debug\SimpleDatabase.pdb
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krzysiek\Documents\GitHub\Simple\SimpleDatabase\obj\Debug\SimpleDatabase.csprojResolveAssemblyReference.cache

@@ -40,6 +40,7 @@ namespace SimpleDatabase
             saver.SaveToFile();
 
             view();
+            Console.ReadLine();
 
         }
         static private bool validate(string FirstName, string LastName)
