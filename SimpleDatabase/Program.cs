@@ -35,7 +35,12 @@ namespace SimpleDatabase
             else
             {
                 add(firstName, lastName);
-                
+                Console.WriteLine(string.Format("witaj {0} {1}", firstName, lastName));
+            }
+            saver.SaveToFile();
+
+            view();
+            Console.ReadLine();
 
         }
         static private bool validate(string FirstName, string LastName)
