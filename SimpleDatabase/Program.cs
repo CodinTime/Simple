@@ -29,15 +29,7 @@ namespace SimpleDatabase
                 return;
             }
             if (contains(firstName,lastName))
-            {
-                Console.WriteLine(string.Format("witaj ponownie {0} {1}", firstName, lastName));
-            }
-            else
-            {
-                add(firstName, lastName);
-                Console.WriteLine(string.Format("witaj {0} {1}", firstName, lastName));
-            }
-            saver.SaveToFile();
+            
 
             view();
             Console.ReadLine();
